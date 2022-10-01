@@ -1,0 +1,19 @@
+{
+    "name": "liberato/liberato-helper",
+    "description": "liberato helper package",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Liberato\\LiberatoHelper\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Stipo Margić",
+            "email": "stipo@liberato.io"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
